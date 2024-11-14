@@ -1,8 +1,13 @@
 ## Hi, I'm Khalfaoui Driss 👋
 
-
-<img src="c53f60a4b9b160ffa3e79fbcbfb4e2a4.gif" alt="Animated GIF" style="width: 100%; height: 170xp;">
-<!--
+<div style="display:flex; justify-content:center; aline-items:center; flex-diraction:row;">
+  <img src="c53f60a4b9b160ffa3e79fbcbfb4e2a4.gif" alt="Animated GIF" style="width: 70%; height: 170xp;">
+  <div>
+      <img src="" alt="Animated GIF" style="width: 70%; height: 170xp;">
+      <img  src="" alt="Animated GIF" style="width: 70%; height: 170xp;">
+  </div>
+</div>
+  <!--
 **KhalfaouiDriss/KhalfaouiDriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
