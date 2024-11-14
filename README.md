@@ -1,6 +1,6 @@
 ## Hi, I'm Khalfaoui Driss 👋
 
-<div style="display:flex; justify-content:center; aline-items:center; flex-diraction:row;">
+<div style="display:flex; justify-content:center; aline-items:center; flex-diraction:column;">
   <img src="c53f60a4b9b160ffa3e79fbcbfb4e2a4.gif" alt="Animated GIF" style="width: 68%; height: 170xp;">
   <div>
       <img src="42aa6019a3444e0169ac854a0ff9bf99.gif" alt="Animated GIF" style="width: 28%; height: 110xp;">
