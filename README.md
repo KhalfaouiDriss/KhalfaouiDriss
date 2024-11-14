@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<img src="https://i.pinimg.com/originals/c5/3f/60/c53f60a4b9b160ffa3e79fbcbfb4e2a4.gif" alt="Animated GIF" style="width: 300px; height: auto;">
+<img src="c53f60a4b9b160ffa3e79fbcbfb4e2a4.gif" alt="Animated GIF" style="width: 300px; height: auto;">
 <!--
 **KhalfaouiDriss/KhalfaouiDriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
