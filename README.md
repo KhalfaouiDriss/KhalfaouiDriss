@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Khalfaoui Driss - GitHub Profile</title>
+
   <style>
-    /* Styling for the container and layout */
+    
     body {
       font-family: Arial, sans-serif;
       background-color: #f4f4f9;
@@ -68,23 +63,13 @@
 
   <div class="profile-card">
     <h1>Hi, I'm Khalfaoui Driss 👋</h1>
-
-    <!-- Main Large GIF -->
     <img src="c53f60a4b9b160ffa3e79fbcbfb4e2a4.gif" alt="Main Animated GIF" class="profile-img-large">
-
-    <!-- Smaller GIFs in a Row -->
     <div class="small-images">
       <img src="42aa6019a3444e0169ac854a0ff9bf99.gif" alt="Small Animated GIF">
       <img src="your-second-gif.gif" alt="Another Small Animated GIF">
     </div>
-
-    <!-- Intro Text -->
     <p class="intro">I'm passionate about technology, programming, and always eager to learn something new. Welcome to my GitHub profile!</p>
   </div>
-
-</body>
-</html>
-
   <!--
 **KhalfaouiDriss/KhalfaouiDriss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
