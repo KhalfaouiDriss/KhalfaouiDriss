@@ -1,5 +1,5 @@
 <body style="font-family: Arial, sans-serif; background-color: #f4f4f9; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0;">
-  <div style="text-align: center; background: #fff; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px; width: 350px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
+  <div style="text-align: center; background: #fff; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px; flex-direction: column; width: 350px; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0px)'">
     <h1 style="font-size: 24px; margin: 0 0 10px;">Hi, I'm Khalfaoui Driss 👋</h1>
     <img src="c53f60a4b9b160ffa3e79fbcbfb4e2a4.gif" alt="Main Animated GIF" style="width: 80%; border-radius: 8px; margin-bottom: 20px;">
     <div style="display: flex; justify-content: space-around;">
