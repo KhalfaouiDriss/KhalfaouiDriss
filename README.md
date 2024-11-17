@@ -1,4 +1,8 @@
 <body style="font-family: Arial, sans-serif; background-color: #f4f4f9; display: flex; align-items: center; justify-content: center; flex; flex-direction: column; height: 100vh; margin: 0;">
+<h1 style="font-size: 24px; margin: 0 0 10px;">Hi, I'm Khalfaoui Driss 👋</h1>
+<div class="" style="display: flex; align-items: center;justify-self: center; flex-direction:row;">
+    <img src="c53f60a4b9b160ffa3e79fbcbfb4e2a4.gif" alt="Main Animated GIF" style="max-width: 100%; max-height: 300px; border-radius: 8px;">
+</div>
     <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
     <img src="https://imgs.search.brave.com/pQnE5FDoU6BT6-Lf9xToyLohKLrZy9brZ0pwgaIoudE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzYxL0hUTUw1X2xv/Z29fYW5kX3dvcmRt/YXJrLnN2Zw" alt="" width="45" height="45"/>
@@ -13,10 +17,6 @@
     <img src="" alt="" width="45" height="45"/>
 </p>
 
-<h1 style="font-size: 24px; margin: 0 0 10px;">Hi, I'm Khalfaoui Driss 👋</h1>
-<div class="" style="display: flex; align-items: center;justify-self: center; flex-direction:row;">
-    <img src="c53f60a4b9b160ffa3e79fbcbfb4e2a4.gif" alt="Main Animated GIF" style="width: 100%; border-radius: 8px;">
-</div>
 </body>
 <!-- ![Snake animation](https://github.com/KhalfaouiDriss/KhalfaouiDriss/blob/output/github-contribution-grid-snake.svg)
 
