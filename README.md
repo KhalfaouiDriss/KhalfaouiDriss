@@ -1,22 +1,37 @@
-<body style="font-family: Arial, sans-serif; background-color: #f4f4f9; display: flex; align-items: center; justify-content: center; flex; flex-direction: column; height: 100vh; margin: 0;">
-<h1 style="font-size: 24px; margin: 0 0 10px;">Hi, I'm Khalfaoui Driss 👋</h1>
-<div class="" style="display: flex; align-items: center;justify-self: center; flex-direction:row;">
-    <img src="https://i.pinimg.com/736x/00/60/69/006069bc7f1f099294b2533e9f57681e.jpg" style="max-width: 50px; max-height: 50px; border-radius: 8px; object-fit: cover; " width ="150px" height="150px" > 
-</div>
-    <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-    <img src="https://imgs.search.brave.com/pQnE5FDoU6BT6-Lf9xToyLohKLrZy9brZ0pwgaIoudE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzYxL0hUTUw1X2xv/Z29fYW5kX3dvcmRt/YXJrLnN2Zw" alt="" width="45" height="45"/>
-    <img src="https://imgs.search.brave.com/CF2T4-_t0OtuUwm2BCrVZpYemSELJvFcltbktxhu2og/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzA5/L0NTUy1Mb2dvLTUw/MHgzMTMucG5n" alt="" width="65" height="45"/>
-    <img src="https://imgs.search.brave.com/1dSdxU2GDlGcxnbNSj_iU83ak0hLBbK9e5btboQV8gI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk5L1Vub2ZmaWNp/YWxfSmF2YVNjcmlw/dF9sb2dvXzIuc3Zn" alt="" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="php" height="45"/>
-    <img src="https://imgs.search.brave.com/CnslUfsK0qtHZGqRQpKO0tyHbXI8avmYXCiQydzynNU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9NeVNRTC9N/eVNRTC1Mb2dvLndp/bmUuc3Zn" alt="" width="45" height="45"/>
-    <img src="https://imgs.search.brave.com/hlJLlUrLwzhpgfcIGN6vE9eNlJsA4TAPtoEGQNUY0e4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzE4L0NfUHJvZ3Jh/bW1pbmdfTGFuZ3Vh/Z2Uuc3Zn" alt="" width="45" height="45"/>
-    <!-- -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-    <img src="" alt="" width="45" height="45"/>
-</p>
+# Hi, I'm Khalfaoui Driss 👋
+### 🖥️ Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner
 
-</body>
-<!-- ![Snake animation](https://github.com/KhalfaouiDriss/KhalfaouiDriss/blob/output/github-contribution-grid-snake.svg)
+## About Me
+Hello! I'm **Khalfaoui Driss**, a passionate developer with a love for learning and building amazing projects. Welcome to my portfolio! 🚀
 
+## 🚀 Tools & Technologies I Work With
+
+### Languages:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Tools:
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+## 🌟 Featured Projects
+
+- [**Project Name**](https://github.com/KhalfaouiDriss/project-name)  
+  📝 *Description:* A brief description of what the project does.  
+  💻 *Technologies:* HTML, CSS, JavaScript
+
+## 📊 GitHub Stats
+![Khalfaoui Driss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhalfaouiDriss&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalfaouiDriss&layout=compact&theme=radical)
+
+## 🎉 Fun Facts
+- 🌍 Based in Fes, Morocco.
+- 💡 Always eager to learn and improve.
+- 📚 Loves science and technology.
+
+![Snake Animation](https://github.com/KhalfaouiDriss/KhalfaouiDriss/blob/output/github-contribution-grid-snake.svg)
