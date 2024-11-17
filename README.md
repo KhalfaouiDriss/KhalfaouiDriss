@@ -1,7 +1,7 @@
 <body style="font-family: Arial, sans-serif; background-color: #f4f4f9; display: flex; align-items: center; justify-content: center; flex; flex-direction: column; height: 100vh; margin: 0;">
 <h1 style="font-size: 24px; margin: 0 0 10px;">Hi, I'm Khalfaoui Driss 👋</h1>
 <div class="" style="display: flex; align-items: center;justify-self: center; flex-direction:row;">
-    <img src="https://i.pinimg.com/736x/00/60/69/006069bc7f1f099294b2533e9f57681e.jpg" style="max-width: 50px; max-height: 50px; border-radius: 8px; object-fit: cover; " width ="50px" height="50px" > 
+    <img src="https://i.pinimg.com/736x/00/60/69/006069bc7f1f099294b2533e9f57681e.jpg" style="max-width: 50px; max-height: 50px; border-radius: 8px; object-fit: cover; " width ="100px" height="120px" > 
 </div>
     <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
