@@ -3,4 +3,10 @@
     <div class="" style="display: flex; align-items: center;justify-self: center; flex-direction:row;">
     <img src="c53f60a4b9b160ffa3e79fbcbfb4e2a4.gif" alt="Main Animated GIF" style="width: 100%; border-radius: 8px;">
     </div>
+    <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 </body>
