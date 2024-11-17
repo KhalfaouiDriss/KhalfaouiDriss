@@ -1,6 +1,6 @@
 <body style="font-family: Arial, sans-serif; background-color: #f4f4f9; display: flex; align-items: center; justify-content: center; flex; flex-direction: column; height: 100vh; margin: 0;">
+    <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
