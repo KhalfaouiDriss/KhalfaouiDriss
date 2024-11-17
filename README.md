@@ -2,7 +2,7 @@
 ### 🖥️ Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner
 
 ## About Me
-<img src="https://i.pinimg.com/736x/00/60/69/006069bc7f1f099294b2533e9f57681e.jpg" width="60px" style="border-radius:50%;"> Hello! I'm **Khalfaoui Driss**, a passionate developer with a love for learning and building amazing projects. Welcome to my portfolio! 🚀
+<img src="https://i.pinimg.com/736x/00/60/69/006069bc7f1f099294b2533e9f57681e.jpg" width="60px" style="border-radius: 50%;"> Hello! I'm **Khalfaoui Driss**, a passionate developer with a love for learning and building amazing projects. Welcome to my portfolio! 🚀
 
 ## 🚀 Tools & Technologies I Work With
 
