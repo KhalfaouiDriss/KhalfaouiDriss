@@ -4,6 +4,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+    <img src="https://imgs.search.brave.com/pQnE5FDoU6BT6-Lf9xToyLohKLrZy9brZ0pwgaIoudE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzYxL0hUTUw1X2xv/Z29fYW5kX3dvcmRt/YXJrLnN2Zw" alt="php" width="45" height="45"/>
+    <img src="" alt="php" width="45" height="45"/>
 </p>
 
 <h1 style="font-size: 24px; margin: 0 0 10px;">Hi, I'm Khalfaoui Driss 👋</h1>
@@ -11,5 +13,5 @@
     <img src="c53f60a4b9b160ffa3e79fbcbfb4e2a4.gif" alt="Main Animated GIF" style="width: 100%; border-radius: 8px;">
 </div>
 </body>
-![Snake animation](https://github.com/KhalfaouiDriss/KhalfaouiDriss/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/KhalfaouiDriss/KhalfaouiDriss/blob/output/github-contribution-grid-snake.svg)
 
