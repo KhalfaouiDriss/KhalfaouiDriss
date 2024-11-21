@@ -38,4 +38,3 @@
 - 💡 Always eager to learn and improve.
 - 📚 Loves science and technology.
 
-![Snake Animation](https://github.com/KhalfaouiDriss/KhalfaouiDriss/blob/output/github-contribution-grid-snake.svg)
