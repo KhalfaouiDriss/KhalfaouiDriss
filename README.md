@@ -24,9 +24,9 @@
 
 ## 🌟 Featured Projects
 
-- [**Project Name**](https://github.com/KhalfaouiDriss/project-name)  
-  📝 *Description:* A brief description of what the project does.  
-  💻 *Technologies:* HTML, CSS, JavaScript
+- [**Accident Management System (Gestion des Accidents)**](https://github.com/KhalfaouiDriss/project-name)  
+  📝 *Description:* The "Accident Management System" is designed to organize and manage all operations related to handling accidents and associated damages, from opening files (dossiers) to repairing damages and closing cases. The project aims to enhance workflow efficiency and minimize human errors by automating processes and providing a comprehensive system for data management and case tracking.  
+  💻 *Technologies:* HTML, CSS, JavaScript, php, mysql, bootstrap, jquery, MVC
 
 ## 📊 GitHub Stats
 ![Khalfaoui Driss's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhalfaouiDriss&show_icons=true&theme=radical)
