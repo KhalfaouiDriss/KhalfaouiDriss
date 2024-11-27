@@ -6,7 +6,7 @@
   <img src="https://i.pinimg.com/736x/00/60/69/006069bc7f1f099294b2533e9f57681e.jpg" width="120px" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </div>
 <p align="center">Hello! I'm <strong>Khalfaoui Driss</strong>, a passionate developer with a love for learning and building amazing projects. Welcome to my portfolio! 🚀</p>
-
+<center><a href="https://badge.mediaplus.ma/binary/dkhalfao?UM6P=off"></a></center>
 ## 🚀 Tools & Technologies I Work With
 
 ### Languages:
