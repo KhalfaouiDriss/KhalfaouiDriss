@@ -25,7 +25,7 @@
 
 ## 🌟 Featured Projects
 
-- [**Accident Management System (Gestion des Accidents)**](https://github.com/KhalfaouiDriss/project-name)  
+- [**Accident Management System (Gestion des Accidents)**]()  
   📝 *Description:* The "Accident Management System" is designed to organize and manage all operations related to handling accidents and associated damages, from opening files (dossiers) to repairing damages and closing cases. The project aims to enhance workflow efficiency and minimize human errors by automating processes and providing a comprehensive system for data management and case tracking.  
   💻 *Technologies:* HTML, CSS, JavaScript, php, mysql, bootstrap, jquery, MVC
 
