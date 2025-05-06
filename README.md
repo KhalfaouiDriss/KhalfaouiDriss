@@ -29,32 +29,32 @@ I'm a passionate developer with a strong foundation in both **low-level programm
 
 ## 📂 Featured Projects
 
-### 🔹 [Libft](https://github.com/KhalfaouiDriss/libft)
+### 🔹 Libft  
 A full reimplementation of the C standard library to gain deep understanding of memory management, pointers, and data manipulation in C.
 
-### 🔹 [get_next_line](https://github.com/KhalfaouiDriss/get_next_line)
+### 🔹 get_next_line  
 Reads input from a file descriptor line-by-line. Developed with custom buffer handling and dynamic memory allocation.
 
-### 🔹 [ft_printf](https://github.com/KhalfaouiDriss/ft_printf)
+### 🔹 ft_printf  
 A custom implementation of the standard `printf` function, handling multiple format specifiers, flags, and width precision.
 
-### 🔹 [push_swap](https://github.com/KhalfaouiDriss/push_swap)
+### 🔹 push_swap  
 An algorithmic challenge to sort data using two stacks with the minimum number of operations. Built with optimized logic and search trees.
 
-### 🔹 [minitalk](https://github.com/KhalfaouiDriss/minitalk)
+### 🔹 minitalk  
 Interprocess communication using Unix signals. Client-server message exchange with bitwise data handling.
 
-### 🔹 [so_long](https://github.com/KhalfaouiDriss/so_long)
+### 🔹 so_long  
 A basic 2D game engine in C using the MiniLibX graphical library, featuring map parsing and player movement.
 
-### 🔹 [Born2beroot](https://github.com/KhalfaouiDriss/Born2beroot)
+### 🔹 Born2beroot  
 A Linux system administration project to configure virtual machines (Debian-based), manage users, firewalls, cron jobs, and SSH hardening.
 
 ---
 
 ## 🌐 Web Development Projects
 
-### 🔸 Accident Management System
+### 🔸 Accident Management System  
 A complete MVC-based web application to manage accident-related workflows (file tracking, damage, repair, closing).
 
 **Stack:** PHP, JavaScript, MySQL, HTML/CSS, Bootstrap, jQuery
@@ -62,12 +62,14 @@ A complete MVC-based web application to manage accident-related workflows (file 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhalfaouiDriss&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhalfaouiDriss&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalfaouiDriss&layout=compact&theme=radical)
 
 ---
 
 ## 🌍 Fun Facts
-- 🏠 I'm from Fes, Morocco.
-- 💡 I love building efficient, smart solutions.
+
+- 🏠 I'm from Fes, Morocco.  
+- 💡 I love building efficient, smart solutions.  
 - 📚 Always learning something new — from system internals to web interfaces.
