@@ -50,6 +50,11 @@ A basic 2D game engine in C using the MiniLibX graphical library, featuring map 
 ### 🔹 Born2beroot  
 A Linux system administration project to configure virtual machines (Debian-based), manage users, firewalls, cron jobs, and SSH hardening.
 
+### 🔹 Minishell
+A simplified Unix shell that parses and executes user commands. Implements custom lexer, parser, and executor supporting pipes, redirections, built-in commands, environment variable handling, and signal management. Designed to mimic real shell behavior with robust error handling and memory management.
+
+
+
 ---
 
 ## 🌐 Web Development Projects
