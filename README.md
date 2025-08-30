@@ -52,7 +52,7 @@ A basic 2D game engine in C using the MiniLibX graphical library, featuring map 
 ### 🔹 Born2beroot  
 A Linux system administration project to configure virtual machines (Debian-based), manage users, firewalls, cron jobs, and SSH hardening.
 
-###🔹 Philosophers
+### 🔹 Philosophers
 A multithreading and synchronization project that simulates the Dining Philosophers problem. Implements mutexes to prevent race conditions and deadlocks, managing concurrent processes to model real-world resource sharing and thread safety in C.
 
 ### 🔹 Minishell
