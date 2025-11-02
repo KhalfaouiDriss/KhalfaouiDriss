@@ -5,7 +5,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate developer with a strong foundation in both **low-level programming (C)** and **web development**. I study at **1337 (42 Network)**, where I’ve worked on real-world algorithmic challenges, system-level projects, and full web stacks using PHP and JavaScript. I enjoy solving complex problems, building clean architectures (MVC), and constantly learning new technologies.
+I'm a passionate developer with a strong foundation in both **low-level programming** and **web development**. I study at **1337 (UM6P)**, where I’ve worked on real-world algorithmic challenges, system-level projects, and full web stacks using PHP and JavaScript. I enjoy solving complex problems, building clean architectures, and constantly learning new technologies.
 
 ---
 
