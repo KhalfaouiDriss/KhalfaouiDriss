@@ -12,7 +12,7 @@ I'm a passionate developer with a strong foundation in both **low-level programm
 ## 🚀 Skills & Technologies
 
 ### 👨‍💻 Languages:
-![C++](https://img.shields.io/badge/CPP-00599C?style=flat-square&logo=c&logoColor=white)
+![CPP](https://img.shields.io/badge/CPP-00599C?style=flat-square&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
