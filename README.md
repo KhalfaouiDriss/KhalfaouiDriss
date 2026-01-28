@@ -30,39 +30,6 @@ I'm a passionate developer with a strong foundation in both **low-level programm
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Libft  
-A full reimplementation of the C standard library to gain deep understanding of memory management, pointers, and data manipulation in C.
-
-### 🔹 get_next_line  
-Reads input from a file descriptor line-by-line. Developed with custom buffer handling and dynamic memory allocation.
-
-### 🔹 ft_printf  
-A custom implementation of the standard `printf` function, handling multiple format specifiers, flags, and width precision.
-
-### 🔹 push_swap  
-An algorithmic challenge to sort data using two stacks with the minimum number of operations. Built with optimized logic and search trees.
-
-### 🔹 minitalk  
-Interprocess communication using Unix signals. Client-server message exchange with bitwise data handling.
-
-### 🔹 so_long  
-A basic 2D game engine in C using the MiniLibX graphical library, featuring map parsing and player movement.
-
-### 🔹 Born2beroot  
-A Linux system administration project to configure virtual machines (Debian-based), manage users, firewalls, cron jobs, and SSH hardening.
-
-### 🔹 Philosophers
-A multithreading and synchronization project that simulates the Dining Philosophers problem. Implements mutexes to prevent race conditions and deadlocks, managing concurrent processes to model real-world resource sharing and thread safety in C.
-
-### 🔹 Minishell
-A simplified Unix shell that parses and executes user commands. Implements custom lexer, parser, and executor supporting pipes, redirections, built-in commands, environment variable handling, and signal management. Designed to mimic real shell behavior with robust error handling and memory management.
-
-
-
----
-
 ## 🌐 Web Development Projects
 
 ### 🔸 Accident Management System  
