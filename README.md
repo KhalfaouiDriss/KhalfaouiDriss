@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Idriss Khalfaoui  
-### 💻 Full-Stack & Systems Developer | UM6P 1337/42 Network Student
+### 💻 Software Engineer Student | UM6P 1337/42 Network Student
 
 ---
 
