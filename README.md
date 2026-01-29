@@ -30,15 +30,6 @@ I'm a passionate developer with a strong foundation in both **low-level programm
 
 ---
 
-## 🌐 Web Development Projects
-
-### 🔸 Accident Management System  
-A complete MVC-based web application to manage accident-related workflows (file tracking, damage, repair, closing).
-
-**Stack:** PHP, JavaScript, MySQL, HTML/CSS, Bootstrap, jQuery
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhalfaouiDriss&show_icons=true&theme=radical)  
